@@ -68,5 +68,5 @@ totoongtayo.onclick = function(){
 
 
 calcmode.onclick = function (){
-    window.location.href = "/calculator/indexcalculator.html"
+    window.location.href = "/calculator/index.html"
 }
